@@ -29,3 +29,48 @@ Tech Stack:
 | Configuration | application.properties      |
 | Architecture  | MVC (Model–View–Controller) |
 
+Project Structure:
+
+Ecommerce/
+│
+├── src/main/java/com/ecommerce
+│   ├── controller
+│   │   └── UserController.java
+│   │
+│   ├── entity
+│   │   └── User.java
+│   │
+│   ├── repository
+│   │   └── UserRepository.java
+│   │
+│   ├── service
+│   │   └── UserService.java
+│   │
+│   └── EcommerceApplication.java
+│
+├── src/main/resources
+│   ├── templates
+│   │   └── signup.html
+│   └── application.properties
+│
+├── pom.xml
+├── target/
+└── README.md
+
+How to Run the Project:
+
+🔹 Prerequisites
+
+->Java 8 or higher
+
+->Maven
+
+->Git
+
+->IDE (IntelliJ / VS Code / Eclipse)
+
+Steps to Run:
+
+
+
+
