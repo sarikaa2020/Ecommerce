@@ -132,6 +132,9 @@ This project is developed for educational and learning purposes.
 Author-Sarikaa Ashree
 🔗 GitHub: https://github.com/sarikaa2020
 
+Support:
+If you find this project useful, don’t forget to star the repository!
+
 
 
 
