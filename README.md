@@ -70,6 +70,62 @@ How to Run the Project:
 ->IDE (IntelliJ / VS Code / Eclipse)
 
 Steps to Run:
+# Clone the repository
+git clone https://github.com/sarikaa2020/Ecommerce.git
+
+# Navigate to project directory
+cd Ecommerce
+
+# Run Spring Boot application
+mvn spring-boot:run
+
+
+Application will run at:
+http://localhost:8080
+
+Module Description:
+User Module
+
+->User.java – Entity class for user data
+
+->UserRepository.java – Database operations using JPA
+
+->UserService.java – Business logic layer
+
+->UserController.java – Handles HTTP requests
+
+->signup.html – User registration page
+
+Current Status:
+
+✔ Project setup completed
+✔ User signup functionality
+✔ MVC architecture implemented
+
+ Future Enhancements:
+
+->Product Management
+
+-> Cart & Checkout System
+
+-> Login & Authentication
+
+-> Payment Gateway Integration
+
+-> Admin Dashboard
+
+-> Database integration (MySQL/PostgreSQL)
+
+Contribution Guidelines:
+
+->Fork the repository
+
+->Create a new branch
+
+->Commit your changes
+
+->Submit a Pull Request
+
 
 
 
