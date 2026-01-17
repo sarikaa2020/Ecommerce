@@ -126,6 +126,13 @@ Contribution Guidelines:
 
 ->Submit a Pull Request
 
+License:
+This project is developed for educational and learning purposes.
+
+Author-Sarikaa Ashree
+🔗 GitHub: https://github.com/sarikaa2020
+
+
 
 
 
